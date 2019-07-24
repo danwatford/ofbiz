@@ -1,0 +1,3 @@
+[submodule "hot-deploy/activate"]
+	path = hot-deploy/activate
+	url = https://github.com/danwatford/activate.git
